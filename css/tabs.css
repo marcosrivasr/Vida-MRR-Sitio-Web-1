@@ -1,0 +1,30 @@
+#tabServicios{
+	height: 400px;
+	width: 850px;
+}
+#tabs{
+	background: #ccc;
+	padding: 10px;
+	text-align: center;
+}
+#tabs a{
+	color: #000;
+	font-size: 14px;
+	padding: 9px 11px 11px 11px;
+	text-decoration: none;
+
+	-webkit-transition: all .5s;
+}
+#tabs a:hover{
+	background: #eee;
+}
+.tabsContent{
+	display: none;
+	text-align: center;
+}
+.tabsContent img{
+	margin-top: 10px;
+}
+.tabActual{
+	background: #fff !important;	
+}

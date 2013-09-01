@@ -1,0 +1,13 @@
+
+
+#errores{
+	background: red;
+	color: white;
+	padding: 8px;
+	text-align: center;	
+	border-radius: 5px;
+	display: none;
+}
+.campo-vacio{
+	box-shadow: 0 0 5px red;
+}

@@ -1,0 +1,27 @@
+/*NUEVO*/
+#containerSlider{
+	height:450px;
+	width: 2550px;
+}
+#containerSlider img{
+	float: left;
+}
+#menuSlider{
+	margin-top: -40px;
+	text-align: center;
+}
+#menuSlider a{
+	background: transparent;
+	font-family: 2px;
+	padding: 0 7px;
+	text-decoration: none;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 0 1px 1px #fff, inset 0 2px 2px #000;
+}
+.menuSliderSeleccionado{
+	background: rgba(255,255,255,0.5) !important;
+}
